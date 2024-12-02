@@ -1,0 +1,16 @@
+# Ignore the virtual environment directory
+venv/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore IDE settings (e.g., for VSCode, PyCharm)
+.vscode/
+.idea/
+
+# Ignore any other temporary files you don't want to track
+*.log
