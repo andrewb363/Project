@@ -14,3 +14,6 @@ __pycache__/
 
 # Ignore any other temporary files you don't want to track
 *.log
+
+# Ignore env
+*.env
